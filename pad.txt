@@ -1,0 +1,15 @@
+<connectionStrings>
+    <add name=  "SqlpracticeConn"   connectionString= "integrated security=true; initial catalog=sqlpractice;
+           data source=DESKTOP-VOCQD6E"/>
+  </connectionStrings>    
+
+http://localhost:57611/CalService.svc
+
+
+
+  <connectionStrings>
+    <add name=  "SqlpracticeConn"   connectionString= "user id=sa;password=P@ssw0rd;integrated security=true; initial catalog=sqlpractice;
+           data source=DESKTOP-0LE50JK"/>
+  </connectionStrings>
+
+https://github.com/prasanth-capgemini/dotnet
